@@ -1,0 +1,29 @@
+
+
+
+
+.input-text{
+display: flex;
+width: 100%;
+margin-bottom: 15px;
+}
+
+.icon {
+padding: 15px;
+background-color: darkred;
+color: white;
+min-width: 50px;
+text-align: center;
+margin-left: 70px;
+
+}
+
+.input_text_form{
+padding: 15px;
+width: 80%;
+outline: none;
+}
+
+
+
+
